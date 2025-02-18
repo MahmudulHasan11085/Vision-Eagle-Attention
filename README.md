@@ -2,7 +2,7 @@
 [![Vision-Eagle.png](https://i.postimg.cc/nzbt9g1v/Vision-Eagle.png)](https://postimg.cc/t15cLrwT)
 
 [Vision-Eagle Paper](https://doi.org/10.48550/arXiv.2411.10564)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MahmudulHasan11085.Vision-Eagle-Attention)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MahmudulHasan11085/Vision-Eagle-Attention)
 
 ### Citation
 
